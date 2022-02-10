@@ -1,3 +1,1 @@
-#Chaos
-
-Simple calculatot
+#Simple calculator
