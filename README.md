@@ -1,2 +1,2 @@
-# Chaos
-Simple Calculator
+#Simple Calculator
+ Learning platform
