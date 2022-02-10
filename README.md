@@ -1,4 +1,3 @@
-#Simple Calculator
+#Chaos
 
-
- Learning platform
+Simple calculatot
