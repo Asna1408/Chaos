@@ -14,11 +14,11 @@ int main (){
 
     cout <<"1 for Addition\n";
 
-    cout <<"2 for substraction\n";
+    cout <<"2 for Substraction\n";
 
-    cout <<"3 for multiplication\n";
+    cout <<"3 for Multiplication\n";
 
-    cout <<"4 for division\n";
+    cout <<"4 for Division\n";
 
     cin >>x;
 
